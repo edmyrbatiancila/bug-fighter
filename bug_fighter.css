@@ -2,7 +2,6 @@
 	margin: 0px;
 	padding: 0px;
 	box-sizing: border-box;
-	outline: 1px dotted red;
 }
 body{
 	background:  url('img/background1.gif') no-repeat fixed center;
